@@ -1,0 +1,19 @@
+@import 'normalize.css';
+@import 'layout.css';
+@import 'header.css';
+@import 'navbar.css';
+@import 'links.css';
+@import 'post.css';
+@import 'footer.css';
+@import 'form.css';
+@import 'sidebar.css';
+
+.body {
+	background-color: #000000;
+	color: #E4F5EF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-title {
+	color: #8A2041;
+}

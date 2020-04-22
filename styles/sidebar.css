@@ -1,0 +1,48 @@
+.sidebar{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+
+}
+
+.sidebar-title{
+	color: #8A2041;
+}
+
+.blog-list{
+	list-style: none;
+}
+
+.blog-item{
+
+}
+
+.side-share-title{
+	color: #8A2041;
+}
+
+.side-social-buttons{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+}
+
+.side-social-list{
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.side-social-img{
+	width: 25px;
+	max-height: auto;
+	margin-right: 20px;
+	margin-left: 0;
+	padding-left: 0;
+}

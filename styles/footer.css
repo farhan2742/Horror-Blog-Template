@@ -1,0 +1,16 @@
+.footer {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.footer-logo {
+	max-width: 50px;
+	max-height: auto;
+}
+
+.footer-text {
+	text-decoration: underline;
+	color: #8A2041;
+}

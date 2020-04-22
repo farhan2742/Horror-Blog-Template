@@ -1,0 +1,38 @@
+.form {
+	width: 31em;
+	margin: auto;
+}
+
+.form-title {
+	text-align: center;
+	color: #8A2041;
+}
+
+.form-item {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 5px;
+}
+
+.form-label {
+	margin-right: 5px;
+	text-decoration: underline;
+	color: #8A2041;
+}
+
+.form-input {
+
+}
+
+.form-button {
+	margin-left: auto;
+	color: #E4F5EF;
+	background-color: #8A2041;
+	border: none;
+}
+
+.form-textarea {
+
+}
